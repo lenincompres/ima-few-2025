@@ -3,7 +3,7 @@
 ## General Information
 - **Course:** IMNY-UT 228 / 4 Credits
 - **Instructor:** Lenin Compres
-- **Semester Start:** 9/05/2024
+- **Semester Start:** 9/04/2025
 - **Location:** Tisch School of the Arts, NYU
 - **Course Syllabus:** [Link](https://github.com/lenincompres/ima-few-2024)
 
