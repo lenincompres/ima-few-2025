@@ -52,9 +52,8 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
 - **Regular Assignments and Documentation (30%)**
   - Weekly assignments including Learning Logs (on Github). These are not about perfection. They’re a place to track your journey — including moments of clarity, confusion, frustration, or surprise. Think of them as your personal field notes.
 - **Participation (20%)**
-  - Participation can look many ways: showing up on time, listening actively, asking questions, posting resources in our Google Space, sharing work-in-progress, or presenting in class. You get to define how you want to engage. 
-  - Share your learning journey, your web finds and your comments on our GChat Space.
-  - Meet the instructor for [office ours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3QG2_4dV8WaqqEWGbWKz9MEhIOISzeb-frVA7O1RNNY7Xgdz3Rs851-sV43AskNzUBsRnd_7Pp). There’s no wrong way to come to office hours — you can drop by to debug, brainstorm, or just chat about where you’re at.
+  - Participation can look many ways: showing up on time, listening actively, asking questions, posting resources in our Google Space, sharing work-in-progress, or presenting in class. You get to define how you want to engage.
+  - Meet the instructor for [office ours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3QG2_4dV8WaqqEWGbWKz9MEhIOISzeb-frVA7O1RNNY7Xgdz3Rs851-sV43AskNzUBsRnd_7Pp). There’s no wrong way to do this — you can drop by to debug, brainstorm, or just chat about where you’re at.
 - **Mid-Term Project (20%)**
   - Demonstrates knowledge of website design and responsive HTML/CSS.
 - **Final Project (30%)**
