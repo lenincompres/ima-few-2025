@@ -50,17 +50,11 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
 
 ## Grading Breakdown
 - **Regular Assignments and Documentation (30%)**
-  - Weekly assignments including Learning Logs (a personal blog or documentation on Github, Notion, Wordpress, even Google docs).
-    - Identify (name, URL, sections, etc.) at least one tutorial that you did.
-    - Where did you achieve clarity? i.e. understood something or felt pieces of knowledge falling into place towards a greater understanding.
-    - Where you did NOT achieve clarity and why? What can you do to aid your understanding?
-    - Connections you made among the week’s readings, lectures, class activities, homework assignments, etc.
-    - Links to any web page, source code or layout files you created (Codepen, Figma, Github, P5 Editor, etc.).
+  - Weekly assignments including Learning Logs (on Github). These are not about perfection. They’re a place to track your journey — including moments of clarity, confusion, frustration, or surprise. Think of them as your personal field notes.
 - **Participation (20%)**
-  - Participate in class discussions, critiques and ideas. 
-  - 5-minute presentation on a Learning Log.
+  - Participation can look many ways: showing up on time, listening actively, asking questions, posting resources in our Google Space, sharing work-in-progress, or presenting in class. You get to define how you want to engage. 
   - Share your learning journey, your web finds and your comments on our GChat Space.
-  - Meet the instructor for [office ours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3QG2_4dV8WaqqEWGbWKz9MEhIOISzeb-frVA7O1RNNY7Xgdz3Rs851-sV43AskNzUBsRnd_7Pp).
+  - Meet the instructor for [office ours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3QG2_4dV8WaqqEWGbWKz9MEhIOISzeb-frVA7O1RNNY7Xgdz3Rs851-sV43AskNzUBsRnd_7Pp). There’s no wrong way to come to office hours — you can drop by to debug, brainstorm, or just chat about where you’re at.
 - **Mid-Term Project (20%)**
   - Demonstrates knowledge of website design and responsive HTML/CSS.
 - **Final Project (30%)**
