@@ -47,7 +47,7 @@ Work with a partner and create an HTML page in the P5 editor that includes:
   * Include sensational paragraph text that tells a fictional 3-4 sentence story about this restaurant.
   * Add a ridiculous image of a food item that this restaurant sells. Note, you will need to find an image on the internet and link to its URL.
   * Somewhere on the page, include a link to an external website. Make sure that link opens in a new tab or window. Bonus: Embed that link in the image.
-  * Before you leave, make sure both students have a link to the codepen to revisit it after class
+  * Before you leave, make sure both students have a link to their p5 file to revisit it after class, and share with the class.
 
 # Homework  
 
