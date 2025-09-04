@@ -52,9 +52,9 @@ Work with a partner and create an HTML page in the P5 editor that includes:
 # Homework
 
 * Get inspired! Find creative portfolios, cool interactive experiences, or perfectly polished websites—whatever makes you excited about learning front-end development. Be prepared to give a 2-3 min presentation to the class on the work that you found (do some research into its origins) and why you're interested in it.
-* Create a new **repository** on your [Github](https://github.com/) account and call it Front-End Web.
+* Create a new **repository** on your [GitHub](https://github.com/) account and call it Front-End Web. Submit the link to your *repo* on GChat or chare it with the class in our Google Space.
   * Go to the settings and set the visibility of the repository as public.
-  * Also activate the wikis feature in the settings, and create a wiki page for your first Learning Log. Talk about the introductory concepts of HTML and CSS. Remember this is about perception not perfecton. Here are some resources:
+  * Activate the wikis feature in the settings, and create a wiki page for your first Learning Log. Talk about the introductory concepts of HTML and CSS. Remember this is about perception not perfecton. Here are some resources:
     * [Khan Academy - Intro to HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
     * [Codecademy - Make A Website](https://www.codecademy.com/learn/make-a-website)
     * [HTML Dog](https://htmldog.com/)
@@ -63,8 +63,10 @@ Work with a partner and create an HTML page in the P5 editor that includes:
     * [Mozilla - Intro to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)
     * [Mozilla - Getting Started with CSS Tutorials Parts 1-14](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
     * [25 HTML and CSS Tutorials on Codeburst](https://codeburst.io/25-html-css-tutorials-6a864f387185)
-* Download and install Visual Studio Code
+* Download and install [Visual Studio Code](https://code.visualstudio.com/)
   * Create a new project with a file name index.html. Take the code you created in class and copy and paste it into this file. Add a Nav bar to your page that makes sense with the context of your restaurant's page. At the moment, it will just look like a bulleted list- thats ok! We'll make it look like a nav bar next week with css. Turn in this file in via NYU classes.
+* Download and install [GitHub Desktop](https://desktop.github.com/download/)
+  * Link the app to you GitHub account.
 
 ## Additional Resources
 
