@@ -36,7 +36,7 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
 - Class 10: **More API's**
 - Class 11: **Handling DATA (CSV)**
 - Class 12: **Frameworks (DOM.js, React.js)**
-- Class 13: **Classes & Binders**
+- Class 13: **Classes & Binders (DOM.js)**
 - Class 14: **Quesystring, Cookies, Localstorage**
 - Class 15: **Final Presentation**
 
