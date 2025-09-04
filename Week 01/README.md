@@ -62,11 +62,10 @@ Work with a partner and create an HTML page in the P5 editor that includes:
   - Why does it inspire you?  
 
 ### 2. Set up your GitHub repo  
-- Create a new repository on [GitHub](https://github.com/) called **Front-End Web**.  
-- Share the link on GChat or in our Google Space.  
-- Make the repo **public**.  
+- Create a new repository on [GitHub](https://github.com/) called **Front-End Web**. 
+- In the settings, make the repo's visibility **public**.  
 - Activate **Wikis** in the repo settings.  
-- Write your first **Learning Log** in the wiki:  
+- Write your first **Learning Log** as a wiki page:  
   - Reflect on the introductory concepts of HTML and CSS.  
   - This is about *perception, not perfection.*  
   - **Suggested resources** (choose a couple — they cover the same basics):  
@@ -77,7 +76,8 @@ Work with a partner and create an HTML page in the P5 editor that includes:
     - [Don’t Fear The Internet – Internet Basics](http://www.dontfeartheinternet.com/)  
     - [Mozilla – Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)  
     - [Mozilla – Getting Started with CSS (Parts 1–14)](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)  
-    - [25 HTML and CSS Tutorials on Codeburst](https://codeburst.io/25-html-css-tutorials-d35caaa9430d)  
+    - [25 HTML and CSS Tutorials on Codeburst](https://codeburst.io/25-html-css-tutorials-d35caaa9430d)   
+- Share the link to your repo on GChat with the insructor or in our Google Space.  
 
 ### 3. Set up your dev environment  
 - Download and install [Visual Studio Code](https://code.visualstudio.com/).  
