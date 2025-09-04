@@ -53,7 +53,7 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
 ## Grading Breakdown
 - **Regular Assignments and Documentation (25% +)**
   - Weekly assignments including Learning Logs (on Github). These are not about perfection. They’re a place to track your journey — including moments of clarity, confusion, frustration, or surprise. Think of them as your personal field notes.
-  - (+) If you excel in documentation and sharing this with the class, this can balance out lighter participation.
+  - (+) If you excel in documentation and sharing it with the class, this can balance out lighter participation.
 - **Participation (25% +)**
   - Participation can look many ways: showing up on time, listening actively, asking questions, posting resources in our Google Space, sharing work-in-progress, or presenting in class. You get to define how you want to engage.
   - Meet the instructor for [office hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3QG2_4dV8WaqqEWGbWKz9MEhIOISzeb-frVA7O1RNNY7Xgdz3Rs851-sV43AskNzUBsRnd_7Pp). There’s no wrong way to do this — you can drop by to debug, brainstorm, or just chat about where you’re at.
