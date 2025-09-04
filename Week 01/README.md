@@ -64,7 +64,7 @@ Work with a partner and create an HTML page in the P5 editor that includes:
     * [Mozilla - Getting Started with CSS Tutorials Parts 1-14](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
     * [25 HTML and CSS Tutorials on Codeburst](https://codeburst.io/25-html-css-tutorials-6a864f387185)
 * Download and install Visual Studio Code
-  * In your code editor, create a new file named index.html. Take the code you created in class and copy and paste it into this file. Add a Nav bar to your page that makes sense with the context of your restaurant's page. At the moment, it will just look like a bulleted list- thats ok! We'll make it look like a nav bar next week with css. Turn in this file in via NYU classes.
+  * Create a new project with a file name index.html. Take the code you created in class and copy and paste it into this file. Add a Nav bar to your page that makes sense with the context of your restaurant's page. At the moment, it will just look like a bulleted list- thats ok! We'll make it look like a nav bar next week with css. Turn in this file in via NYU classes.
 
 ## Additional Resources
 
