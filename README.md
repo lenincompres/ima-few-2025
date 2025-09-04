@@ -45,15 +45,17 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
 - **Software:** Free tools
   - Browser: Chrome or Firefox
   - Developer Tools: Firebug (Firefox) or Chrome Developer Tools
-  - HTML Text Editor: VS Code, Atom, etc.
+  - HTML Text Editor: VS Code.
   - Web Hosting: Github Pages (recommended), or personal server
+- **Using AI Tools**
+  - For foundational HTML, CSS, and JavaScript, I encourage you to try the basics on your own first. Struggle a little, experiment, and debug manually — this is how real understanding develops. AI tools (e.g., ChatGPT, GitHub Copilot) are welcome after you’ve attempted the work yourself, for debugging, researching, or polishing your code. If you use AI, document what it suggested, how you applied it, and confirm that you understand the solution. Think of AI as a creative collaborator — you guide it, critique it, and own the final outcome.
 
 ## Grading Breakdown
 - **Regular Assignments and Documentation (30%)**
   - Weekly assignments including Learning Logs (on Github). These are not about perfection. They’re a place to track your journey — including moments of clarity, confusion, frustration, or surprise. Think of them as your personal field notes.
 - **Participation (20%)**
   - Participation can look many ways: showing up on time, listening actively, asking questions, posting resources in our Google Space, sharing work-in-progress, or presenting in class. You get to define how you want to engage.
-  - Meet the instructor for [office ours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3QG2_4dV8WaqqEWGbWKz9MEhIOISzeb-frVA7O1RNNY7Xgdz3Rs851-sV43AskNzUBsRnd_7Pp). There’s no wrong way to do this — you can drop by to debug, brainstorm, or just chat about where you’re at.
+  - Meet the instructor for [office hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3QG2_4dV8WaqqEWGbWKz9MEhIOISzeb-frVA7O1RNNY7Xgdz3Rs851-sV43AskNzUBsRnd_7Pp). There’s no wrong way to do this — you can drop by to debug, brainstorm, or just chat about where you’re at.
 - **Mid-Term Project (20%)**
   - Demonstrates knowledge of website design and responsive HTML/CSS.
 - **Final Project (30%)**
