@@ -19,7 +19,7 @@ Go over syllabus & class requirements. This is a contract between students + pro
 * [Community Guidelines](https://community.itp.io/community_statement)
 * [ITP/IMA Wall](https://itp.nyu.edu/people/wall/)
 * [Github](https://github.com/)
-* [Codepen](https://codepen.io/pen/)
+* [P5.js Editor](https://editor.p5js.org/)
 * [w3schools](https://www.w3schools.com/)
 
 # Part 2
