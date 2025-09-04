@@ -51,7 +51,7 @@ Classes include lectures, discussions, tutorials, homework reviews, presentation
   - For foundational HTML, CSS, and JavaScript, I encourage you to try the basics on your own first. Struggle a little, experiment, and debug manually — this is how real understanding develops. AI tools (e.g., ChatGPT, GitHub Copilot) are welcome after you’ve attempted the work yourself, for debugging, researching, or polishing your code. If you use AI, document what it suggested, how you applied it, and confirm that you understand the solution. Think of AI as a creative collaborator — you guide it, critique it, and own the final outcome.
 
 ## Grading Breakdown
-- **Regular Assignments and Documentation (25% +)**
+- **Assignments and Documentation (25% +)**
   - Weekly assignments including Learning Logs (on Github). These are not about perfection. They’re a place to track your journey — including moments of clarity, confusion, frustration, or surprise. Think of them as your personal field notes.
   - (+) If you excel in documentation and sharing it with the class, this can balance out lighter participation.
 - **Participation (25% +)**
