@@ -26,8 +26,8 @@
 
 * [Web Safe Fonts](https://websitesetup.org/web-safe-fonts-html-css/)
 * [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
-* [The Float Property](https://www.w3schools.com/css/css_float.asp)
-* [Inline v. Inline Block](https://alligator.io/css/display-inline-vs-inline-block/)
+* [The Float Property](https://www.w3schools.com/cssref/pr_class_float.php)
+* [Inline v. Inline Block](https://www.w3schools.com/cssref/pr_class_display.php)
 * Code along- Building Google's homepage with CSS
 
 ## Assignment
