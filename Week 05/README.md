@@ -1,6 +1,5 @@
 # Part 1 - Dynamic CSS
 
-* Learning Log Presentations & questions
 * Learn
   * [Today's slides](https://docs.google.com/presentation/d/1cpkMkDLG-rB9t58p8qbGq6aWZGjLzKiP5fKVustM7nQ/edit?usp=sharing)
   * Pseudo elements
