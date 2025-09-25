@@ -5,7 +5,6 @@
     * Live server
     * Beautify
     * File > Autosave
-    * [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)
 * Intro to [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   * Play	[Flexbox Froggy!](https://flexboxfroggy.com/)
 * Extra time? Checkout out Grid:
@@ -24,6 +23,7 @@
     * [Preview html](https://htmlpreview.github.io/?)
       * Just enter the **permalink** of the folder or html page you want to preview.
       ![image](https://github.com/user-attachments/assets/774747f7-fc78-457c-9c56-4055279059be)
+  * **Set up you Github pages**
 * Media Queries
   * Mobile Design considerations
     * Minimize cognitive load even more
