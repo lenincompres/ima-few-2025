@@ -55,7 +55,7 @@
   * [Pinterest Moodboard Example](https://www.pinterest.com/pin/331999803756049839/)
 ## HOMEWORK
 * Do a Learning Log on Flexbox and Media Queries
-* Finish in-class assignments: Take your Craigslist redesign assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Push to Github and publish this on Github Pages. Submit BOTH the link to your repository and the link to where the website is hosted on NYU Classes
+* Finish in-class assignments: Take your Craigslist redesign assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Push to Github and publish this on Github Pages. Submit the URL to the website in Github page view GChat, and also you reference it in your learning logs.
 * Prepare your midterm presentation! You will be creating a fully functioning website, styled with CSS. It is up to you if it is multiple pages or just one HTML page, but every design element must be well considered. Next week, you will be presenting your midterm ideas and getting critiques. Your presentation must include:
   * A concise elevator pitch: What are you making? Why? Your content should be well-considered. You should be able to articulate the need for the website you will be creating. "It looks cool" is not enough of a reason.
   * A wireframe of your home page
