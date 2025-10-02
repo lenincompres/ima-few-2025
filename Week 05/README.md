@@ -8,6 +8,7 @@
   * CSS Transitions and Animations
     * [Transitions](https://css-tricks.com/almanac/properties/t/transition/)
     * [Animations](https://css-tricks.com/almanac/properties/a/animation/)
+  * [CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
   * Inpirations and Resources
     * [CSS Clocks](https://cssanimation.rocks/clocks/)
     * [CSS Animations for Beginners](https://thoughtbot.com/blog/css-animation-for-beginners)
