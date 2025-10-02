@@ -5,15 +5,17 @@ header {
   padding: 1em;
   height: 1em;
   transition: background-color .5s, height 1s;
-  -webkit-transition:;
-  -moz-transition:;
-  -ms-transition:;
-  -o-transition:;
+  -webkit-transition: background-color .5s, height 1s;
+  -moz-transition: background-color .5s, height 1s;
+  -ms-transition: background-color .5s, height 1s;
+  -o-transition: background-color .5s, height 1s;
 }
 
 header:hover{
+  border: solid red 2px;
   background-color: brown;
   height: 4em;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 header:hover a{
@@ -42,6 +44,20 @@ a {
   color: navy;
 }
 
+a:link {
+  color: red;
+}
+
+a:hover {
+  color: green;
+}
+
+a::before{
+  content: "$";
+  color: purple;
+  background-color: aqua;
+}
+
 footer a {
   color: skyblue;
 }
@@ -58,5 +74,16 @@ footer {
   background-color: black;
   height: 1em;
   padding: 1em;
+  color: white;
+}
+
+#floater {
+  position: fixed;
+  height: 20em;
+  width: 30em;
+  top: calc(50vh - 10em);
+  left: calc(50vw - 15em);
+  padding: 2em;
+  background-color: rgba(50,255,10,0.1);
   color: white;
 }
