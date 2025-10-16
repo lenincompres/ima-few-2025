@@ -1,6 +1,6 @@
 # Part 1
 Intro to Javascript:
-[The Javascript Way](https://github.com/thejsway/thejsway) Chapters 1 - 5 or [Eloquent Javascript](https://eloquentjavascript.net/) Complete the exercises as you go
+[The Javascript Way](https://github.com/thejsway/thejsway) Chapters 1 - 5 or [Eloquent Javascript](https://eloquentjavascript.net/) Complete the exercises as you go.
 * Values
 * Variables
 * Conditions
