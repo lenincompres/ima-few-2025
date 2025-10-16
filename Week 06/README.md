@@ -11,4 +11,4 @@ Read and interact with this essay, [What is Code](https://www.bloomberg.com/grap
   * What has my journey looked like?
   * How has my learning affected my understanding of what I can create with these tools? How has my learning affected what I may be inspired to create?
   * What can I do to remain engaged, inspired and productive?
-* Write a short response to the essay (at least 150 words). What's something you learned? Do you disagree with Paul Ford in any way? As undergraduate students, you are not the audience for this piece; did it still resonate with you? What did you think of the user experience of reading the essay?
+* Write a short response to the essay. What's something you learned? Do you disagree with Paul Ford in any way? As undergraduate students in 2025, you are not the audience for this piece; did it still resonate with you? What did you think of the user experience of reading the essay? How is this essay different, more or less relevant in the AI era?
