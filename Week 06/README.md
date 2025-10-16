@@ -5,7 +5,7 @@ Midterm Presentation Day!
 Read and interact with this essay, [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin). 
 
 ### HOMEWORK
-* Complete any remaining work needed based on the feedback you received in class and upload a FINAL version of your site for grading tomorrow.
+* Complete any remaining work needed based on the feedback you received in class and upload a FINAL version of your site before next's week class.
 * Complete a midterm self-assessment in your learning logs. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. In any learning situation you should study beforehand, make/do, reflect, adjust, and do it all over again. Learning happens in a cycle. You will synthesize what you are noticing in your notes, assignments, projects, learning logs, etc. with regard to your learning. Each self assessment should have a minimum of three citations from lectures, weekly discussions, and/or tutorials. Write a narrative midterm self-evaluation that is a minimum of 2 paragraphs. (You certainly may write more.) In this narrative, address the following:
   * What do I know about this subject right now?
   * What has my journey looked like?
