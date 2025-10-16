@@ -23,7 +23,7 @@
 
 ## HOMEWORK
 In [The Javascript Way](https://github.com/thejsway/thejsway)
-* Read Chapter 9 - 10. Complete the exercises only or Chapter 9. Submit a code pen link.
+* Read Chapter 9 - 10. Complete the exercises only or Chapter 9.
 * Review Chapters 13 - 16 (no need to turn in the assignments but you should attempt them anyway)
 * Coding exercise:
   * Begin by creating an HTML document that has at least 10 of the same HTML elements.
