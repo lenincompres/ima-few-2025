@@ -19,4 +19,4 @@ Arrays:
 * Code along: [List of Words](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md#list-of-words)
 
 ## HOMEWORK
-* In [The Javascript Way](https://github.com/thejsway/thejsway), review Chapters 6 - 7 - 8. Complete the exercises and submit them via a code pen link.
+* In [The Javascript Way](https://github.com/thejsway/thejsway), review Chapters 6 - 7 - 8. Complete the exercises.
