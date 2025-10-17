@@ -1,0 +1,10 @@
+#mainDisplay {
+  background-color: tan;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+#myImage {
+  width: 100px;
+  height: 10px;
+}

@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 1rem;
+}
+
+body>main {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: silver;
+}
+
+#resultsSection {
+  padding: 1rem;
+  min-height: 1rem;
+  background-color: beige;
+}
+
+input {
+  border: solid 2px black;
+}
