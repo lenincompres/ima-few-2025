@@ -1,11 +1,40 @@
 
-addButton.onclick = function(){
-  addNewPet();
-};
+addButton.onclick = () => addPet();
+
+function addPet() {
+
+  if (!validateField(nameInput)) return;
+  if (!validateField(ageInput)) return;
+  if (!validateField(pictureInput)) return;
+
+  let pet = {
+    name: nameInput.value,
+    age: ageInput.value,
+    picture: pictureInput.value,
+  }
+
+  let petElt = document.createElement('section');
+
+  petElt.innerHTML += `
+    <h2>${pet.name}</h2>
+    <img src="${pet.picture}" alt="${pet.name}'s picture"/>
+    <p>${pet.name} is ${pet.age} years old.</p>
+  `;
+
+  let deleteBtn = document.createElement('button');
+  deleteBtn.innerText = "delete";
+  deleteBtn.onclick = () => petElt.remove();
+  petElt.append(deleteBtn);
+
+  petsDisplay.append(petElt);
+
+  clearInputs();
+
+}
 
 
-function validateInput(inputElt){
-  if(inputElt.value.trim().length === 0){
+function validateField(inputElt) {
+  if (inputElt.value.trim() === '') {
     inputElt.classList.add("error");
     return false;
   } else {
@@ -15,42 +44,8 @@ function validateInput(inputElt){
 }
 
 
-function clearForm(){
+function clearInputs() {
   nameInput.value = '';
   ageInput.value = '';
   pictureInput.value = '';
-}
-
-
-function addNewPet(){
-
-  if(!validateInput(nameInput)){
-    return;
-  }
-  if(!validateInput(ageInput)){
-    return;
-  }
-  if(!validateInput(pictureInput)){
-    return;
-  }
-
-  let petSection = document.createElement('section');
-  
-  petSection.innerHTML += `
-    <h2>${nameInput.value}</h2>
-    <img src="${pictureInput.value}" alt="${nameInput.value}'s picture"/>
-    <p>${nameInput.value} is ${ageInput.value} years old</p>
-  `;
-
-  let removeButton = document.createElement('button');
-  removeButton.innerText = "Remove";
-  removeButton.onclick = function(){
-    petSection.remove();
-  }
-  petSection.append(removeButton);
-
-  petsGalleryMain.append(petSection);
-
-  clearForm();
-
 }
