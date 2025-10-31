@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport"/>
+  <title>Dog Park</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Dog Park</h1>
+  <p>Add your dog's information below. Every dog will appear as a card on the page!</p>
+
+  <form id="dogForm">
+    <div class="form-group">
+      <label for="breed">Breed:</label>
+      <input type="text" id="breed" name="breed" required />
+    </div>
+
+    <div class="form-group">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required />
+    </div>
+
+    <div class="form-group">
+      <label for="age">Age:</label>
+      <input type="number" id="age" name="age" min="0" required />
+    </div>
+
+    <button type="submit">Add Dog</button>
+  </form>
+
+  <div id="dogCardsContainer" class="cards-container">
+  </div>
+  
+  <div class="counter-section">
+    <button onclick="countCards()">Count All Dog Cards</button>
+    <button onclick="countGroup1()">Count Elements in Puppy Pen</button>
+    <button onclick="countGroup2()">Count Elements in Adult Dog Zone</button>
+
+    <div id="output1" class="results"></div>
+    <div id="output2" class="results"></div>
+    <div id="output3" class="results"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
