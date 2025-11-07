@@ -17,7 +17,6 @@ DOM.set({
       flexWrap: "wrap",
       margin: "1em",
       backgroundColor: "wheat",
-      innerText: "some text",
     },
   },
 });
