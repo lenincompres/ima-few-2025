@@ -1,0 +1,47 @@
+body {
+  background-color: silver;
+  text-align: center;
+}
+
+#deck-container{
+  text-align: left;
+  background-color: burlywood;
+  padding: 1em;
+  margin: 1em auto;
+  width: 28em;
+}
+
+#hand-container {
+  background-color: burlywood;
+  padding: 1em;
+  margin: 1em auto;
+  width: fit-content;
+  max-width: 28em;
+}
+
+card-div{
+  display: inline-block;
+  background-color: white;
+  padding: 1em 0.25em;
+  margin: 0.25em;
+  width: 1.5em;
+  transition: 0.2s;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+}
+
+card-div.red {
+  color: brown;
+}
+
+card-div.flipped{
+  color: transparent;
+  background-color: slategray;
+  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+}

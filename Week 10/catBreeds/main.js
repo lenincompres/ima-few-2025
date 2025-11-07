@@ -18,9 +18,10 @@ fetch("cats.json").then(response => {
   // This is the json object in a variable called data.
   console.log(data);
   mainContent.innerHTML = `<h2>${data.description}</h2>`;
-  let selectElement = document.createElement('select');
 
+  let selectElement = document.createElement('select');
   mainContent.append(selectElement);
+  
   for(let breed of data.cats){
     let breedElement = document.createElement('option');
     breedElement.innerHTML = breed;
@@ -36,7 +37,6 @@ fetch("cats.json").then(response => {
    * the catch promise, tellf fetch what to do in cases there's an error or issue with the request of with the response. This is called error handling.
    */
   console.error(error);
-
 });
 
 
