@@ -1,6 +1,14 @@
 # Project proposals and Digital Accessibility
 
-## Part 1: Digital Accessibility
+## Part 1: Project Proposals
+
+Each student will have 5 minutes to explain their idea (or ideas) for the final project.
+  *  What would you like to accomplish?
+  *  What were your inspirations?
+  *  Share your design (UX/UI) ideas: moodboard, sitemap, wireframes.
+  *  What API, data, and resources would you incorporate?
+
+## Part 2: Digital Accessibility
 
 * **Objective** : Understand digital accessibility and learn how to create inclusive websites that accommodate all users, including those with disabilities.
 * **Key Concepts** :
@@ -43,14 +51,6 @@
    * **Remediation Exercise** : Each team picks two or three accessibility issues to fix on a simple HTML/CSS page.
 3. **Reflection and Learning Log** :
    * Add entries on accessibility concepts learned, audit findings, and reflections on the importance of inclusive design.
-
-## Part 2: Project Proposals
-
-Each student will have 5 minutes to explain their idea (or ideas) for the final project.
-  *  What would you like to accomplish?
-  *  What were your inspirations?
-  *  Share your design (UX/UI) ideas: moodboard, sitemap, wireframes.
-  *  What API, data, and resources would you incorporate?
 
 ### Assignment
 
