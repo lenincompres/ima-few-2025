@@ -9,6 +9,33 @@
 
 Projects presentations. Please share any issues, challenges and breakthroughs on your final project's journey.
 
+## Peer Walkthroughs: Narrative Flow Test
+Break into pairs or trios.
+Each student gets 5 minutes to present + 3 minutes to receive structured feedback, answering:
+* What story is being told?
+* What part felt unclear or abrupt?
+* What interaction felt meaningful?
+* Where do I expect a response or transition?
+* Students take notes after each critique.
+
+## Production Sprint (45 minutes)
+Students work individually on:
+* Fixing clarity issues
+* Improving interactive pacing
+* Refining typographic hierarchy
+* Implementing one new narrative-focused interaction
+* Cleaning code / structure
+
+## Rapid User Testing
+Rotate groups of 3:
+Round format
+* 2 minutes silent exploration
+* 1 minute giving impressions
+* “I understood…”
+* “I was confused when…”
+* “I wanted to click or scroll here…”
+* “This moment felt strong because…”
+
 ## Final Polish Checklist + Final Presentation Expectations
 ### Narrative
 * Does the site guide the user through a beginning → exploration → insight?
