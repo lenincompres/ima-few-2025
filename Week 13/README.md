@@ -9,7 +9,7 @@
 
 Projects presentations. Please share any issues, challenges and breakthroughs on your final project's journey.
 
-## Final Polish Checklist + Final Presentation Expectations (10 minutes)
+## Final Polish Checklist + Final Presentation Expectations
 ### Narrative
 * Does the site guide the user through a beginning → exploration → insight?
 ### Interactions
