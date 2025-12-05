@@ -50,12 +50,11 @@ Round format
 * Responsive layout
 * Clear file structure
 * Semantic HTML
-* Any Accessibility Issues
+* Accessibility Issues
 ### Final Presentation Prep
 * What story are you telling?
-* What to demo live
-* What you want your audience to feel/understand
-
+* What do you want your audience to feel/understand
+* Is your demo live
 
 ## Class evaluation
 
